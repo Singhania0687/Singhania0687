@@ -92,13 +92,13 @@ I'm Full Stack Developer skilled in Python (Programming Language), C++,  HTML, C
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="25%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Singhania0687&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="30%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhania0687&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhania0687&hide_border=true&layout=compact" align="right" style="width: 100%" />
 
 </td></tr></table>  
 
