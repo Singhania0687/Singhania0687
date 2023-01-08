@@ -61,7 +61,12 @@ I'm Full Stack Developer skilled in Python (Programming Language), C++,  HTML, C
 
 
 ## Languages & Tools  
+<pre>
 
+
+
+
+</pre>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" /></a>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="30" /></a>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
