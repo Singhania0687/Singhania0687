@@ -95,6 +95,8 @@ I'm Full Stack Developer skilled in Python (Programming Language), C++,  HTML, C
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="30" /></a> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
 </div>  
 <br/>  
+
+
 <pre>
 
 
