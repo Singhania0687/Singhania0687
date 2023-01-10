@@ -133,6 +133,7 @@ I'm Full Stack Developer skilled in Python (Programming Language), C++,  HTML, C
 <br/>  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhania0687" alt="singhania0687" /></a> </p>
 
+
 <p align="left">
 </p>
 
