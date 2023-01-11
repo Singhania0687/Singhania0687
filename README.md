@@ -2,15 +2,8 @@
 
 
 
+
 # Hi there 👋 &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   ![Profile views counter](https://komarev.com/ghpvc/?username=Singhania0687&&style=flat-square) 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 ##   I'm Abhishek , Your tech buddy 💻                        
  
   
@@ -18,9 +11,9 @@
 <a href="https://linkedin.com/in/abhishek-kumar0687" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 4px;" />
 </a>
-<a href="https://github.com/Singhania0687" target="_blank">
+<!-- <a href="https://github.com/Singhania0687" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 4px;" />
-</a>  
+</a>   -->
   
 
 
@@ -30,7 +23,6 @@ I'm Full Stack Developer skilled in Python (Programming Language), C++,  HTML, C
   
 
 <br/>  
-
 
 ## It's me ,
 <table><tr><td valign="top" width="50%">
@@ -60,10 +52,8 @@ I'm Full Stack Developer skilled in Python (Programming Language), C++,  HTML, C
 <br/>  
 
 
-## Languages & Tools  
+## Languages & Tools :-
 <pre>
-
-
 
 
 </pre>
