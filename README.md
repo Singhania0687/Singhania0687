@@ -27,10 +27,10 @@ I'm Full Stack Developer skilled in Python (Programming Language), C++,  HTML, C
 ## It's me ,
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Backend Development  
+- 🔭 I’m currently working on AI Project
   
 
-- 🌱 I’m currently learning Machine Learning and Animation  
+- 🌱 I’m currently learning Machine Learning and Animation using Blender  
   
 
 - ❓ Feel free to contact and collaborate with me . 
