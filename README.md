@@ -23,7 +23,7 @@ I'm Full Stack Developer skilled in Python (Programming Language), C++,  HTML, C
 
 <br/>  
 
-## It's me ,
+# It's me ,
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on AI Project
