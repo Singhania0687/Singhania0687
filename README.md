@@ -59,17 +59,16 @@ Object-Oriented Programming (OOP) and Data structures & Algorithm  -<br/>
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" /></a>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="30" /></a>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
+
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" /></a>   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" /></a>   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="30" /></a>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="30" /></a>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" /></a>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30" /></a>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
+
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" /></a>   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" /></a>   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" /></a>   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
  <br>
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="30" /></a>   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="30" /></a>   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
@@ -114,15 +113,6 @@ Object-Oriented Programming (OOP) and Data structures & Algorithm  -<br/>
 
 <p align="left">
 </p>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhania0687&show_icons=true&locale=en&layout=compact" alt="singhania0687" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhania0687&show_icons=true&locale=en" alt="singhania0687" /></p>
-
- --><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhania0687&" alt="singhania0687" /></p>
-
-
-  
 
 <br/>  
 
