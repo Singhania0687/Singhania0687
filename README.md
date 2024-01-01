@@ -18,9 +18,13 @@
 
 
 ### Glad to see you here!  
-I'm Full Stack Developer skilled in Python (Programming Language), C++,  HTML, CSS, JavaScript, jQuery, MYSQL, Node.js, Express.js, MongoDB, Document Object Model(DOM), React.js, Object-Oriented Programming (OOP) and Data structures.  
+I'm Full Stack Developer skilled in :-<br/>
+Languages - JavaScript , C++,  -<br/>
+HTML, CSS, MYSQL, Node.js, Express.js, -<br/>
+MongoDB, Document Object Model(DOM) -<br/>
+Framework :-React.js,  -<br/>
+Object-Oriented Programming (OOP) and Data structures & Algorithm  -<br/>
   
-
 <br/>  
 
 # It's me ,
