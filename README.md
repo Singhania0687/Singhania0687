@@ -1,22 +1,14 @@
 <img src="https://github.com/Singhania0687/Singhania0687/blob/main/ABISHEK%20KUMA-2.png"/>
 
-
-
-
 # Hi there 👋 &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   ![Profile views counter](https://komarev.com/ghpvc/?username=Singhania0687&&style=flat-square) 
 ##   I'm Abhishek , Your tech buddy 💻                        
  
-  
-
-<a href="https://linkedin.com/in/abhishek-kumar0687" target="_blank">
+  <a href="https://linkedin.com/in/abhishek-kumar0687" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 4px;" />
 </a>
  <a href="https://github.com/Singhania0687" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 4px;" />
 </a>  
-
-
-
 ### Glad to see you here at my account !  
 <h3>  I'm <i>Full Stack Developer</i> skilled in :-</h3><br/>
 Languages - JavaScript , C++,  -<br/>
@@ -26,7 +18,6 @@ Framework :-React.js,  -<br/>
 Object-Oriented Programming (OOP) and Data structures & Algorithm  -<br/>
   
 <br/>  
-
 # It's me ,
 <table><tr><td valign="top" width="50%">
 
@@ -58,9 +49,9 @@ Object-Oriented Programming (OOP) and Data structures & Algorithm  -<br/>
 ## Languages & Tools :-
 
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" /></a>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" /></a>   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /></a>   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" /></a>   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="30" /></a>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
