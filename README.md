@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here at my account !  
-<h3>  I'm <i>Full Stack Developer</i> skilled in </h3>:-<br/>
+<h3>  I'm <i>Full Stack Developer</i> skilled in :-</h3><br/>
 Languages - JavaScript , C++,  -<br/>
 HTML, CSS, MYSQL, Node.js, Express.js, -<br/>
 MongoDB, Document Object Model(DOM) -<br/>
