@@ -1,7 +1,7 @@
 <img src="https://github.com/Singhania0687/Singhania0687/blob/main/ABISHEK%20KUMA-2.png"/>
 
 # Hi there 👋 &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   ![Profile views counter](https://komarev.com/ghpvc/?username=Singhania0687&&style=flat-square) 
-##   I'm Abhishek , Your tech buddy 💻                        
+<h1 >   I'm Abhishek , Your tech buddy 💻    </h1>                 
  
   <a href="https://linkedin.com/in/abhishek-kumar0687" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 4px;" />
@@ -9,7 +9,8 @@
  <a href="https://github.com/Singhania0687" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 4px;" />
 </a>  
-### Glad to see you here at my account !  
+<br>
+ Glad to see you here at my account !  
 <h3>  I'm <i>Full Stack Developer</i> skilled in :-</h3><br/>
 Languages - JavaScript , C++,  -<br/>
 HTML, CSS, MYSQL, Node.js, Express.js, -<br/>
