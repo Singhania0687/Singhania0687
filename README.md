@@ -12,12 +12,13 @@
 <br>
  Glad to see you here at my account !  
 <h3>  I'm <i>Full Stack Developer</i> skilled in :-</h3><br/>
-Languages - JavaScript , C++,  -<br/>
-HTML, CSS, MYSQL, Node.js, Express.js, -<br/>
-MongoDB, Document Object Model(DOM) -<br/>
-Framework :-React.js,  -<br/>
-Object-Oriented Programming (OOP) and Data structures & Algorithm  -<br/>
-  
+Languages - JavaScript ,C++ <br/>
+Frontend  - HTML, CSS,React,Next js<br/>
+Database  - MYSQL,MongoDb,Neo4j(Graph QL) <br/>
+Backend   - Node.js, Express.js <br/>
+Object-Oriented Programming (OOP) and Data structures & Algorithm <br/>
+Other Skills - VCS (using Git) and hosting on Github ,AWS (such as EC2 ,S3 ,IAM,Lambda) <br/>
+&nbsp; &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  RESTful APIs,Asynchronous Programming,Working on Threads programming,Error Handling and Debugging   
 <br/>  
 # It's me ,
 <table><tr><td valign="top" width="50%">
