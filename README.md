@@ -12,8 +12,8 @@
 <br>
  Glad to see you here at my account !  
 <h3>  I'm <i>Full Stack Developer</i> skilled in :-</h3><br/>
-Languages - JavaScript ,C++ <br/>
-Frontend  - HTML, CSS,React,Next js<br/>
+Languages -<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />JavaScript</a>  ,C++ <br/>
+Frontend  - HTML, <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" />CSS</a>  ,<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" />React</a>  ,Next js<br/>
 Database  - MYSQL,MongoDb,Neo4j(Graph QL) <br/>
 Backend   - Node.js, Express.js <br/>
 Object-Oriented Programming (OOP) and Data structures & Algorithm <br/>
@@ -51,9 +51,9 @@ Other Skills - VCS (using Git) and hosting on Github ,AWS (such as EC2 ,S3 ,IAM,
 ## Languages & Tools :-
 
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" /></a>   
+
+
+   
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="60" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" /></a>  
