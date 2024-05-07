@@ -15,7 +15,7 @@
 Languages -<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />JavaScript</a>  ,C++ <br/>
 Frontend  - HTML, <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" />CSS</a>  ,<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" />React</a>  ,Next js<br/>
 Database  - MYSQL,MongoDb,Neo4j(Graph QL) <br/>
-Backend   - Node.js, Express.js <br/>
+Backend   -<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60" /> Node.js</a> , Express.js <br/>
 Object-Oriented Programming (OOP) and Data structures & Algorithm <br/>
 Other Skills - VCS (using Git) and hosting on Github ,AWS (such as EC2 ,S3 ,IAM,Lambda) <br/>
 &nbsp; &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  RESTful APIs,Asynchronous Programming,Working on Threads programming,Error Handling and Debugging   
@@ -64,7 +64,7 @@ Other Skills - VCS (using Git) and hosting on Github ,AWS (such as EC2 ,S3 ,IAM,
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="60" /></a>     
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60" /></a> 
+
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" /></a> 
 </div>  
 <br/>  
