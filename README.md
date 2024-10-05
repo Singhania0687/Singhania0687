@@ -68,14 +68,6 @@ Other Skills - VCS (using Git) and hosting on Github ,AWS (such as EC2 ,S3 ,IAM,
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="60" /></a> 
 </div>  
 <br/>  
-
-
-
-
-
-
-
-
 ## Github Stats  
 <table><tr><td valign="top" width="45%">
 
