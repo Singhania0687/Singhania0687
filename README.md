@@ -6,9 +6,7 @@
   <a href="https://linkedin.com/in/abhishek-kumar0687" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 4px;" />
 </a>
- <a href="https://github.com/Singhania0687" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 4px;" />
-</a>  
+ 
 <br>
  Glad to see you here at my account !  
 <h3>  I'm <i>Full Stack Developer</i> skilled in :-</h3><br/>
