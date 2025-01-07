@@ -9,7 +9,7 @@
  
 <br>
  Glad to see you here at my account !  
-<h3>  I'm <i>Full Stack Developer</i> skilled in :-</h3><br/>
+<h3>  I'm <B>Full Stack Developer</B> skilled in :-</h3><br/>
 Languages - JavaScript ,C++ <br/>
 Frontend  - HTML, CSS React</a>  ,Next js<br/>
 Database  - MYSQL,MongoDb,Neo4j(Graph QL) <br/>
