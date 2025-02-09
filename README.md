@@ -42,7 +42,7 @@
 # It's me ,
 <table><tr><td valign="top" width="50%">
 
-🚀🚀🚀 What I Do 🚀🚀🚀<br/>  
+ ## What I Do 🚀🚀🚀<br/>  
 🔹 AI & Machine Learning – Exploring deep learning, NLP, and AI-driven automation <br/>  
 🔹 Cloud & DevOps – Learning Kubernetes, Terraform, and CI/CD pipelines<br/>  
 🔹 DSA & Competitive Programming – 1K+ LeetCode problems solved (300-day streak 🏆)<br/>  
