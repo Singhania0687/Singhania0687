@@ -21,16 +21,16 @@ Other Skills - VCS (using Git) and hosting on Github ,AWS (such as EC2 ,S3 ,IAM,
 # It's me ,
 <table><tr><td valign="top" width="50%">
 
-🚀 What I Do
-🔹 AI & Machine Learning – Exploring deep learning, NLP, and AI-driven automation
-🔹 Cloud & DevOps – Learning Kubernetes, Terraform, and CI/CD pipelines
-🔹 DSA & Competitive Programming – 1K+ LeetCode problems solved (300-day streak 🏆)
-🔹 Software Development – Ex-SDE at GAO Tek Inc., hands-on experience in scalable backend systems
-🔹 Entrepreneurship – Founder of M/S JAI SHANKAR CONSTRUCTIONS (₹60L turnover)
+🚀🚀🚀 What I Do 🚀🚀🚀<br/>  
+🔹 AI & Machine Learning – Exploring deep learning, NLP, and AI-driven automation <br/>  
+🔹 Cloud & DevOps – Learning Kubernetes, Terraform, and CI/CD pipelines<br/>  
+🔹 DSA & Competitive Programming – 1K+ LeetCode problems solved (300-day streak 🏆)<br/>  
+🔹 Software Development – Ex-SDE at GAO Tek Inc., hands-on experience in scalable backend systems<br/>  
+🔹 Entrepreneurship – Founder of M/S JAI SHANKAR CONSTRUCTIONS (₹60L turnover)<br/>  
 
-🔥 Current Focus
-✅ Transitioning to AI Engineering 🚀
-✅ Deep-diving into LLMs, Generative AI, and Cloud AI services
+🔥🔥🔥🔥 Current Focus 🔥🔥🔥🔥<br/>  
+✅ Transitioning to AI Engineering 🚀<br/>  
+✅ Deep-diving into LLMs, Generative AI, and Cloud AI services<br/>  
 ✅ Building MLOps pipelines and AI-driven applications
 
 </td><td valign="top" width="50%">
