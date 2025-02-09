@@ -3,21 +3,42 @@
 # Hi there 👋 &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   ![Profile views counter](https://komarev.com/ghpvc/?username=Singhania0687&&style=flat-square) 
 <h1 >   I'm Abhishek , Your tech buddy 💻    </h1>                 
  
-  <a href="https://linkedin.com/in/abhishek-kumar0687" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 4px;" />
-</a>
- 
-<br>
- Glad to see you here at my account !  
-<h3>  I'm <B>Full Stack Developer</B> skilled in :-</h3><br/>
-Languages - JavaScript ,C++ <br/>
-Frontend  - HTML, CSS React</a>  ,Next js<br/>
-Database  - MYSQL,MongoDb,Neo4j(Graph QL) <br/>
-Backend   -Node.js</a> , Express.js <br/>
-Object-Oriented Programming (OOP) and Data structures & Algorithm <br/>
-Other Skills - VCS (using Git) and hosting on Github ,AWS (such as EC2 ,S3 ,IAM,Lambda) <br/>
-&nbsp; &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  RESTful APIs,Asynchronous Programming,Working on Threads programming,Error Handling and Debugging   
-<br/>  
+  
+<br> 
+
+  Passionate **AI Engineer | Ex-SDE | Founder** with a strong background in **Software Development, AI, and Cloud Technologies**. I specialize in solving complex problems, optimizing systems, and building scalable AI-driven applications.  
+
+---
+
+## 🚀 Tech Stack & Expertise  
+
+### 🖥️ Programming Languages  
+- **JavaScript | C++**  
+
+### 🌐 Frontend Development  
+- **HTML | CSS | React.js | Next.js**  
+
+### 🗄️ Databases  
+- **MySQL | MongoDB | Neo4j (GraphQL)**  
+
+### ⚙️ Backend Development  
+- **Node.js | Express.js**  
+
+### 📚 Core Concepts  
+- **Object-Oriented Programming (OOP)**  
+- **Data Structures & Algorithms (1K+ LeetCode problems solved 🎯)**  
+
+### ☁️ Cloud & DevOps  
+- **AWS (EC2, S3, IAM, Lambda)**  
+- **Version Control (Git, GitHub)**  
+- **CI/CD & Deployment**  
+
+### 🔧 Other Key Skills  
+- **RESTful APIs & Asynchronous Programming**  
+- **Thread Programming & Concurrency**  
+- **Error Handling & Debugging**  
+
+---
 # It's me ,
 <table><tr><td valign="top" width="50%">
 
