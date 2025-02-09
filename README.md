@@ -21,18 +21,17 @@ Other Skills - VCS (using Git) and hosting on Github ,AWS (such as EC2 ,S3 ,IAM,
 # It's me ,
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on AI Project
-  
+🚀 What I Do
+🔹 AI & Machine Learning – Exploring deep learning, NLP, and AI-driven automation
+🔹 Cloud & DevOps – Learning Kubernetes, Terraform, and CI/CD pipelines
+🔹 DSA & Competitive Programming – 1K+ LeetCode problems solved (300-day streak 🏆)
+🔹 Software Development – Ex-SDE at GAO Tek Inc., hands-on experience in scalable backend systems
+🔹 Entrepreneurship – Founder of M/S JAI SHANKAR CONSTRUCTIONS (₹60L turnover)
 
-- 🌱 I’m currently learning Machine Learning and Animation using Blender  
-  
-
-- ❓ Feel free to contact and collaborate with me . 
-            Ask me any doubts in competitive coding and MERN .  
-  
-
-- ⚡ Fun fact: Though I am very lazy person but the final product which  you will receive from me will be the best of it's kind.  
-
+🔥 Current Focus
+✅ Transitioning to AI Engineering 🚀
+✅ Deep-diving into LLMs, Generative AI, and Cloud AI services
+✅ Building MLOps pipelines and AI-driven applications
 
 </td><td valign="top" width="50%">
 
