@@ -22,7 +22,10 @@
 - **MySQL | MongoDB | Neo4j (GraphQL)**  
 
 ### ⚙️ Backend Development  
-- **Node.js | Express.js**  
+- **Node.js | Express.js**
+- **Docker  | Kubernetes(K8S) | Terraform (as IAC)**
+- **Kafka (as Message Broker)**
+- **Nginx (as Web Server)**
 
 ### 📚 Core Concepts  
 - **Object-Oriented Programming (OOP)**  
