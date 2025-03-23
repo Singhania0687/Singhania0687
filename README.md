@@ -26,7 +26,12 @@
 
 ### 📚 Core Concepts  
 - **Object-Oriented Programming (OOP)**  
-- **Data Structures & Algorithms (1K+ LeetCode problems solved 🎯)**  
+- **Data Structures & Algorithms (1K+ LeetCode problems solved 🎯)**
+- **DataBase Management System**
+- **Computer Networking**
+- **Compiler Design**
+- **System Design (LLD & HLD)**
+- **Operating System**
 
 ### ☁️ Cloud & DevOps  
 - **AWS (EC2, S3, IAM, Lambda)**  
