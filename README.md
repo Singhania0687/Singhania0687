@@ -6,7 +6,7 @@
   
 <br> 
 
-  ## Founder with a strong background in **Software Development, AI, and Cloud Technologies**. I specialize in solving complex problems, optimizing systems, and building scalable AI-driven applications.  
+ Founder with a strong background in **Software Development, AI, and Cloud Technologies**. I specialize in solving complex problems, optimizing systems, and building scalable AI-driven applications.  
 
 ---
 
