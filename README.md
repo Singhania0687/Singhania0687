@@ -119,6 +119,9 @@
   
 
 <br/>  
+## 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Singhania9475?theme=light&font=baloo&ext=contest)](https://leetcode.com/u/Singhania9475/)
 
 
 <br />
