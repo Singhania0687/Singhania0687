@@ -1,97 +1,71 @@
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;    &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;    &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;    &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;    ![Profile views counter](https://komarev.com/ghpvc/?username=Singhania0687&&style=flat-square) 
+<!-- Profile Views -->
+![Profile views](https://komarev.com/ghpvc/?username=Singhania0687&style=flat-square)
+
+<!-- Banner -->
 <img src="https://github.com/Singhania0687/Singhania0687/blob/main/asset1.jpeg" width="100%"/>
 
-# Hi there 👋 &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; 
-              
- 
-  
-<br> 
+# 👋 Hi, I’m Abhishek Singhania  
 
- Founder with a strong background in **Software Development, AI, and Cloud Technologies**. I specialize in solving complex problems, optimizing systems, and building scalable AI-driven applications.  
+💡 **Software Developer | AI Enthusiast | Cloud & DevOps Learner**  
+I specialize in building **scalable systems, AI-driven applications, and cloud-native solutions**.  
+With **1K+ LeetCode problems solved** and hands-on industry + entrepreneurial experience, I bring a blend of problem-solving, engineering, and leadership skills.  
 
 ---
 
-## 🚀 Tech Stack & Expertise  
+## 🚀 Tech Stack  
 
-### 🖥️ Programming Languages             
-- **JavaScript | C++**  
+**Languages:**  
+`C++` • `JavaScript`  
 
-### 🌐 Frontend Development  
-- **HTML | CSS | React.js | Next.js**  
+**Frontend:**  
+`React.js` • `Next.js` • `HTML` • `CSS`  
 
+**Backend & Infrastructure:**  
+`Node.js` • `Express.js` • `Docker` • `Kubernetes` • `Terraform` • `Kafka` • `Nginx`  
 
+**Cloud & DevOps:**  
+`AWS (EC2, S3, IAM, Lambda)` • `Git/GitHub` • `CI/CD Pipelines`  
 
-### ⚙️ Backend Development  
-- **Node.js | Express.js**
-- **Docker  | Kubernetes(K8S) | Terraform (as IAC)**
-- **Kafka (as Message Broker)**
-- **Nginx (as Web Server)**
-
-### 📚 Core Concepts  
-- **Object-Oriented Programming (OOP)**  
-- **Data Structures & Algorithms (1K+ LeetCode problems solved 🎯)**
-- **DataBase Management System**
-- **Computer Networking**
-- **Compiler Design**
-- **System Design (LLD & HLD)**
-- **Operating System**
-
-### ☁️ Cloud & DevOps  
-- **AWS (EC2, S3, IAM, Lambda)**  
-- **Version Control (Git, GitHub)**  
-- **CI/CD & Deployment**  
-
-### 🔧 Other Key Skills  
-- **RESTful APIs & Asynchronous Programming**  
-- **Thread Programming & Concurrency**  
-- **Error Handling & Debugging**  
+**Core CS Knowledge:**  
+`OOP` • `DSA (1K+ LC problems 🎯)` • `DBMS` • `Networking` • `System Design (LLD/HLD)` • `OS` • `Compiler Design`  
 
 ---
-# It's me ,
-<table><tr><td valign="top" width="50%">
 
- ## What I Do 🚀🚀🚀<br/>  
-🔹 AI & Machine Learning – Exploring deep learning, NLP, and AI-driven automation <br/>  
-🔹 Cloud & DevOps – Learning Kubernetes, Terraform, and CI/CD pipelines<br/>  
-🔹 DSA & Competitive Programming – 1K+ LeetCode problems solved (300-day streak 🏆)<br/>  
-🔹 Software Development – Ex-SDE at GAO Tek Inc., hands-on experience in scalable backend systems<br/>  
-🔹 Entrepreneurship – Founder of M/S JAI SHANKAR CONSTRUCTIONS (₹60L turnover)<br/>  
+## 🌟 What I Do  
 
-🔥🔥🔥🔥 Current Focus 🔥🔥🔥🔥<br/>  
-✅ Transitioning to AI Engineering 🚀<br/>  
-✅ Deep-diving into LLMs, Generative AI, and Cloud AI services<br/>  
-✅ Building MLOps pipelines and AI-driven applications
+- 🤖 **AI & ML** – Exploring Deep Learning, NLP & Generative AI  
+- ☁️ **Cloud & DevOps** – Kubernetes, Terraform, CI/CD Pipelines  
+- 🏆 **DSA & Competitive Programming** – 300+ day streak on LeetCode  
+- 💻 **Software Development** – Ex-SDE at **GAO Tek Inc.** (scalable backend systems)  
+- 🚀 **Entrepreneurship** – Founded **M/S Jai Shankar Constructions** (₹60L turnover)  
 
-</td><td valign="top" width="50%">
+### 🎯 Current Focus  
+- Transitioning into **AI Engineering**  
+- Deep-diving into **LLMs, Generative AI, and Cloud AI services**  
+- Building **MLOps pipelines** & AI-powered applications  
 
-<div align="center">
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="center" style="width: 100%" />
-</div>  
+---
 
+## 📊 GitHub Stats  
 
-</td></tr></table>  
-<br/>  
-
-# Github Stats  
-<table><tr><td valign="top" width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Singhania0687&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100% " />
-
-</td><td valign="top" width="30%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhania0687&hide_border=true&layout=compact" align="right" style="width: 250%" />
-
-</td></tr></table>  
-
-<br/>  
-
-
-
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Singhania0687&show_icons=true&count_private=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhania0687&hide_border=true&layout=compact" height="160"/>
 </p>
 
-<br/>  
-<br />
+---
 
-</div>
+## 🤝 Let’s Connect  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
