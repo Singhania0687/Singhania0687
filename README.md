@@ -4,7 +4,7 @@
 <!-- Banner -->
 <img src="https://github.com/Singhania0687/Singhania0687/blob/main/asset1.jpeg" width="100%"/>
 
-# 👋 Hi, I’m Abhishek Singhania  
+# 👋 Hi, I’m Abhishek Kumar
 
 💡 **Software Developer | AI Enthusiast | Cloud & DevOps Learner**  
 I specialize in building **scalable systems, AI-driven applications, and cloud-native solutions**.  
