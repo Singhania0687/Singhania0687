@@ -4,11 +4,11 @@
 <!-- Banner -->
 <img src="https://github.com/Singhania0687/Singhania0687/blob/main/asset1.jpeg" width="100%"/>
 
-# 👋 Hi, I’m Abhishek Kumar
+# 👋 Hi, I’m 
 
 💡 **Software Developer | AI Enthusiast | Cloud & DevOps Learner**  
 I specialize in building **scalable systems, AI-driven applications, and cloud-native solutions**.  
-With **1K+ LeetCode problems solved** and hands-on industry + entrepreneurial experience, I bring a blend of problem-solving, engineering, and leadership skills.  
+With  a lots of problems solved on multiple platforms  and hands-on industry + entrepreneurial experience, I bring a blend of problem-solving, engineering, and leadership skills.  
 
 ---
 
@@ -58,14 +58,14 @@ With **1K+ LeetCode problems solved** and hands-on industry + entrepreneurial ex
 ## 🤝 Let’s Connect  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-kumar0687/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+  <a href="mailto:abhishekundefeated0687@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+<!--   <a href="https://" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
