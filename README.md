@@ -5,10 +5,9 @@
 <img src="https://github.com/Singhania0687/Singhania0687/blob/main/asset1.jpeg" width="100%"/>
 
 # 👋 Hi, I’m 
-
-💡 **Software Developer | AI Enthusiast | Cloud & DevOps Learner**  
+💡 **Backend Developer | AI Practitioner | Skilled in Cloud & DevOps**</br>
 I specialize in building **scalable systems, AI-driven applications, and cloud-native solutions**.  
-With  a lots of problems solved on multiple platforms  and hands-on industry + entrepreneurial experience, I bring a blend of problem-solving, engineering, and leadership skills.  
+With **extensive problem-solving experience across multiple platforms** and hands-on **industry + entrepreneurial exposure**, I bring a unique blend of **engineering excellence, problem-solving mindset, and leadership skills**.
 
 ---
 
