@@ -62,8 +62,8 @@ With extensive problem-solving experience across multiple platforms and hands-on
   <a href="mailto:abhishekundefeated0687@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-<!--   <a href="https://" target="_blank">
+ <a href="https://leetcode.com/u/Singhania9475/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a> -->
+  </a> 
 </p>
 
