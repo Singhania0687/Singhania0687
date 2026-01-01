@@ -4,25 +4,33 @@
 <!-- Banner -->
 <img src="https://github.com/Singhania0687/Singhania0687/blob/main/asset1.jpeg" width="100%"/>
 
-## 👋 Hi , I’m **Backend Developer , skilled in Cloud & DevOps**</br>
-`I specialize in building scalable systems, AI-driven applications, and cloud-native solutions.  
-With extensive problem-solving experience across multiple platforms and hands-on industry + entrepreneurial exposure, I bring a unique blend of engineering excellence, problem-solving mindset, and leadership skills.`
+### 👋 Hi, I’m Abhishek Kumar </br>
+## **Backend Engineer | Cloud & DevOps | Scalable Systems**</br>
+
+`I build scalable backend systems and cloud-native infrastructure, with a strong foundation in DSA, system design, and core CS fundamentals.
+Currently expanding into AI Engineering, focusing on LLM-backed applications and MLOps-ready systems.`
 
 ---
 
 ## 🚀 Tech Stack  
 
 **Languages:**  
-`C++` • `JavaScript`  
+`C++` • `JavaScript` • `Python`
 
-**Frontend:**  
-`React.js` • `Next.js` • `HTML` • `CSS`  
 
-**Backend & Infrastructure:**  
-`Node.js` • `Express.js` • `Docker` • `Kubernetes` • `Terraform` • `Kafka` • `Nginx`  
+**Backend  :**  
+`Node.js `• `Express.js `• `REST APIs `• `JWT Auth` • `Middleware Architecture`
+
+**Databases :**</br>
+`MongoDB `• `PostgreSQL` • `Indexing` • `Schema Design`
 
 **Cloud & DevOps:**  
-`AWS (EC2, S3, IAM, Lambda)` • `Git/GitHub` • `CI/CD Pipelines`  
+`AWS (EC2, S3, IAM, Lambda)` • `Git/GitHub` • `CI/CD Pipelines`  </br>
+• `Docker` • `Kubernetes` </br>
+• `Terraform` • `Kafka` • `Nginx`  
+
+**Frontend (Working Knowledge):**
+`React.js` • `Next.js` • `HTML` • `CSS`
 
 **Core CS Knowledge:**  
 `OOP` • `DSA (1K+ LC problems 🎯)` • `DBMS` • `Networking` • `System Design (LLD/HLD)` • `OS` • `Compiler Design`  
