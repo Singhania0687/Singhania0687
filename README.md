@@ -4,17 +4,17 @@
 <!-- Banner -->
 <img src="https://github.com/Singhania0687/Singhania0687/blob/main/asset1.jpeg" width="100%"/>
 
-### 👋 Hi, I’m Abhishek Kumar </br>
-## **Backend Engineer | Cloud & DevOps | Scalable Systems**</br>
 
-`I build scalable backend systems and cloud-native infrastructure, with a strong foundation in DSA, system design, and core CS fundamentals.
-Currently expanding into AI Engineering, focusing on LLM-backed applications and MLOps-ready systems.`
+# **Backend Engineer | Cloud & DevOps | Scalable Systems**</br>
+
+I build scalable backend systems and cloud-native infrastructure, with a strong foundation in DSA, system design, and core CS fundamentals.
+Currently expanding into AI Engineering, focusing on LLM-backed applications and MLOps-ready systems.
 
 ---
 
 ## 🚀 Tech Stack  
 
-**Languages:**  
+**Languages :**  
 `C++` • `JavaScript` • `Python`
 
 
@@ -24,31 +24,64 @@ Currently expanding into AI Engineering, focusing on LLM-backed applications and
 **Databases :**</br>
 `MongoDB `• `PostgreSQL` • `Indexing` • `Schema Design`
 
-**Cloud & DevOps:**  
+**Cloud & DevOps :**  
 `AWS (EC2, S3, IAM, Lambda)` • `Git/GitHub` • `CI/CD Pipelines`  </br>
 • `Docker` • `Kubernetes` </br>
 • `Terraform` • `Kafka` • `Nginx`  
 
-**Frontend (Working Knowledge):**
-`React.js` • `Next.js` • `HTML` • `CSS`
+**Frontend (Working Knowledge) :**</br>
+`React.js` • `HTML` • `CSS`
 
-**Core CS Knowledge:**  
-`OOP` • `DSA (1K+ LC problems 🎯)` • `DBMS` • `Networking` • `System Design (LLD/HLD)` • `OS` • `Compiler Design`  
+**Core CS Knowledge :**  
+`OOPS` • `DSA (1K+ LC problems 🎯)` • `DBMS` • `Networking`  • `OS` 
+• `System Design (LLD/HLD)`
 
 ---
 
-## 🌟 What I Do  
+## 🧠 Featured Projects
 
-- 🤖 **AI & ML** – Exploring Deep Learning, NLP & Generative AI  
-- ☁️ **Cloud & DevOps** – Kubernetes, Terraform, CI/CD Pipelines  
-- 🏆 **DSA & Competitive Programming** – 300+ day streak on LeetCode  
-- 💻 **Software Development** – Ex-SDE at **GAO Tek Inc.** (scalable backend systems)  
-- 🚀 **Entrepreneurship** – Founded **M/S Jai Shankar Constructions** (₹60L turnover)  
+### 🔹 Scalable Backend System (Production-Grade)
+- Designed **RESTful APIs** using **Node.js & Express**
+- Implemented **JWT-based authentication** with role-based access control
+- Used **MongoDB with indexing** for optimized and scalable queries
+- Deployed using **Docker**, **AWS EC2**, and **Nginx**
+- Focus: **Scalability, security, and clean architecture**
 
-### 🎯 Current Focus  
-- Transitioning into **AI Engineering**  
-- Deep-diving into **LLMs, Generative AI, and Cloud AI services**  
-- Building **MLOps pipelines** & AI-powered applications  
+---
+
+### 🔹 Cloud-Native Microservices Setup
+- Containerized services using **Docker**
+- Orchestrated microservices with **Kubernetes**
+- Provisioned infrastructure using **Terraform**
+- Automated builds and deployments via **CI/CD pipelines**
+- Focus: **DevOps automation, reliability, and infrastructure scalability**
+
+---
+
+### 🔹 DSA & Competitive Programming Portfolio
+- Solved **1000+ problems on LeetCode**
+- Strong command over core problem-solving patterns:
+  - Arrays, Strings, Linked Lists  
+  - Trees, Graphs  
+  - Dynamic Programming, Greedy Algorithms
+- Maintained a **300+ day daily problem-solving streak**
+- Focus: **Algorithmic thinking, optimization, and interview readiness**
+
+## 🌟 What I Do
+
+- 💻 **Backend Engineering** – Building APIs, authentication systems, and scalable backend services
+- ☁️ **Cloud & DevOps** – Working with **AWS, Docker, Kubernetes, and Terraform**
+- 🧠 **DSA & System Design** – Interview-grade problem solving and design thinking
+- 🤖 **AI Foundations** – Learning **Python, NumPy, Pandas, and PyTorch** for AI system development
+- 🚀 **Entrepreneurship** – Founder of **M/S Jai Shankar Constructions** (₹60L turnover)
+
+
+## 🎯 Current Focus
+
+- Transitioning into **AI Engineering** with a **backend-first approach**
+- Learning **LLMs, Generative AI**, and **AI system integration**
+- Building **AI-enabled backend services**
+- Designing **MLOps-ready deployment pipelines**
 
 ---
 
