@@ -5,7 +5,7 @@
 <img src="https://github.com/Singhania0687/Singhania0687/blob/main/asset1.jpeg" width="100%"/>
 
 
-# **Backend Engineer | Cloud & DevOps | Scalable Systems**</br>
+# **Backend-focused engineer with strong DSA fundamentals**</br>
 
 I build scalable backend systems and cloud-native infrastructure, with a strong foundation in DSA, system design, and core CS fundamentals.
 Currently expanding into AI Engineering, focusing on LLM-backed applications and MLOps-ready systems.
